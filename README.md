@@ -1,2 +1,2 @@
 # MTK
-Code used in MTK manuscript
+Code and sequence files used in MTK manuscript
