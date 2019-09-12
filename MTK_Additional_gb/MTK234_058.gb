@@ -1,0 +1,99 @@
+LOCUS       MTK234_058              2092 bp ds-DNA     circular     22-FEB-2019
+DEFINITION  .
+ACCESSION   <unknown id>                                                       
+VERSION     <unknown id>                                                       
+KEYWORDS    "sgRNA Dropout"                                                    
+FEATURES             Location/Qualifiers
+     promoter             complement(1945..2049)
+                          /label="CamR Promoter"
+                          /ApEinfo_revcolor=#84b0dc
+                          /ApEinfo_fwdcolor=#84b0dc
+     rep_origin           complement(join(2050..2092,1..721))
+                          /label="ColE1"
+                          /ApEinfo_revcolor=#7f7f7f
+                          /ApEinfo_fwdcolor=#7f7f7f
+     misc_feature         1071..1081
+                          /label="modified stem loop"
+                          /ApEinfo_revcolor=#85dae9
+                          /ApEinfo_fwdcolor=#85dae9
+     CDS                  complement(1285..1944)
+                          /label="CamR"
+                          /ApEinfo_revcolor=#0000ff
+                          /ApEinfo_fwdcolor=#0000ff
+     terminator           complement(1176..1284)
+                          /label="CamR Terminator"
+                          /ApEinfo_revcolor=#84b0dc
+                          /ApEinfo_fwdcolor=#84b0dc
+     protein_bind         726..731
+                          /label="BsaI"
+                          /ApEinfo_revcolor=#b1ff67
+                          /ApEinfo_fwdcolor=#b1ff67
+     misc_feature         737..1045
+                          /label="mU6 promoter (modified)"
+                          /ApEinfo_revcolor=#ffef86
+                          /ApEinfo_fwdcolor=#ffef86
+     misc_feature         1083..1094
+                          /label="modified stem loop"
+                          /ApEinfo_revcolor=#85dae9
+                          /ApEinfo_fwdcolor=#85dae9
+     sgSafeTargetingChr11 1052..1069
+                          /label="sgSafeTargetingChr11"
+                          /ApEinfo_revcolor=#84b0dc
+                          /ApEinfo_fwdcolor=#84b0dc
+     protein_bind         complement(1163..1166)
+                          /label="BsaI"
+                          /ApEinfo_revcolor=#b1ff67
+                          /ApEinfo_fwdcolor=#b1ff67
+     misc_recomb          931..964
+                          /label="LoxP recombination site"
+                          /ApEinfo_revcolor=#c7b0e3
+                          /ApEinfo_fwdcolor=#c7b0e3
+     protein_bind         733..736
+                          /label="BsaI"
+                          /ApEinfo_revcolor=#b1ff67
+                          /ApEinfo_fwdcolor=#b1ff67
+     protein_bind         complement(1168..1173)
+                          /label="BsaI"
+                          /ApEinfo_revcolor=#b1ff67
+                          /ApEinfo_fwdcolor=#b1ff67
+     misc_feature         1096..1162
+                          /label="modified stem loop"
+                          /ApEinfo_revcolor=#85dae9
+                          /ApEinfo_fwdcolor=#85dae9
+ORIGIN
+        1 gtcagacccc gtagaaaaga tcaaaggatc ttcttgagat cctttttttc tgcgcgtaat
+       61 ctgctgcttg caaacaaaaa aaccaccgct accagcggtg gtttgtttgc cggatcaaga
+      121 gctaccaact ctttttccga aggtaactgg cttcagcaga gcgcagatac caaatactgt
+      181 tcttctagtg tagccgtagt taggccacca cttcaagaac tctgtagcac cgcctacata
+      241 cctcgctctg ctaatcctgt taccagtggc tgctgccagt ggcgataagt cgtgtcttac
+      301 cgggttggac tcaagacgat agttaccgga taaggcgcag cggtcgggct gaacgggggg
+      361 ttcgtgcaca cagcccagct tggagcgaac gacctacacc gaactgagat acctacagcg
+      421 tgagctatga gaaagcgcca cgcttcccga agggagaaag gcggacaggt atccggtaag
+      481 cggcagggtc ggaacaggag agcgcacgag ggagcttcca gggggaaacg cctggtatct
+      541 ttatagtcct gtcgggtttc gccacctctg acttgagcgt cgatttttgt gatgctcgtc
+      601 aggggggcgg agcctatgga aaaacgccag caacgcggcc tttttacggt tcctggcctt
+      661 ttgctggcct tttgctcaca tgttctttcc tgcgttatcc cctgattctg tggataaccg
+      721 tagtcggtct cAaacggatc cgacgcgcca tctctaggcc cgcgccggcc ccctcgcacg
+      781 gacttgtggg agaagctcgg ctactcccct gccccggtta atttgcatat aatatttcct
+      841 agtaactata gaggcttaat gtgcgataaa agacagataa tctgttcttt ttaatactag
+      901 ctacatttta catgataggc ttggatttct ataacttcgt atagcataca ttatacgaag
+      961 ttataaacag cacaaaagga aactcaccct aactgtaaag taattgtgtg ttttgagact
+     1021 ataaGtatcc cttggagaaC CAcctTGTTT GGATGAGAAC TAGTCATAGG TTTAAGAGCT
+     1081 AAGCTGGAAA CAGCATAGCA AGTTTAAATA AGGCTAGTCC GTTATCAACT TGAAAAAGTG
+     1141 GCACCGAGTC GGTGCTTTTT TTgctgtgag accagaccaa taaaaaacgc ccggcggcaa
+     1201 ccgagcgttc tgaacaaatc cagatggagt tctgaggtca ttactggatc tatcaacagg
+     1261 agtccaagcg agctcgatat caaattacgc cccgccctgc cactcatcgc agtactgttg
+     1321 taattcatta agcattctgc cgacatggaa gccatcacaa acggcatgat gaacctgaat
+     1381 cgccagcggc atcagcacct tgtcgccttg cgtataatat ttgcccatgg tgaaaacggg
+     1441 ggcgaagaag ttgtccatat tggccacgtt taaatcaaaa ctggtgaaac tcacccaggg
+     1501 attggctgaa acgaaaaaca tattctcaat aaacccttta gggaaatagg ccaggttttc
+     1561 accgtaacac gccacatctt gcgaatatat gtgtagaaac tgccggaaat cgtcgtggta
+     1621 ttcactccag agcgatgaaa acgtttcagt ttgctcatgg aaaacggtgt aacaagggtg
+     1681 aacactatcc catatcacca gctcaccgtc tttcattgcc atacgaaatt ccggatgagc
+     1741 attcatcagg cgggcaagaa tgtgaataaa ggccggataa aacttgtgct tatttttctt
+     1801 tacggtcttt aaaaaggccg taatatccag ctgaacggtc tggttatagg tacattgagc
+     1861 aactgactga aatgcctcaa aatgttcttt acgatgccat tgggatatat caacggtggt
+     1921 atatccagtg atttttttct ccattttagc ttccttagct cctgaaaatc tcgataactc
+     1981 aaaaaatacg cccggtagtg atcttatttc attatggtga aagttggaac ctcttacgtg
+     2041 cccgatcaat catgaccaaa atcccttaac gtgagttttc gttccactga gc
+//
