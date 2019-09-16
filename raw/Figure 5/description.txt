@@ -1,1 +1,1 @@
-fcs files of one pot experiments
+fcs files of cas9 circuits experiments
