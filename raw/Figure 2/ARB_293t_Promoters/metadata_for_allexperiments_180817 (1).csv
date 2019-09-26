@@ -1,0 +1,192 @@
+A01,ARB287a,Terminators,bgPA,Plate1
+A02,ARB287a,Terminators,bgPA,Plate1
+A03,ARB287a,Terminators,bgPA,Plate1
+A04,ARB287a,Terminators,bgPA,Plate1
+A05,ARB287b,Terminators,SV40PA,Plate1
+A06,ARB287b,Terminators,SV40PA,Plate1
+A07,ARB287b,Terminators,SV40PA,Plate1
+A08,ARB287b,Terminators,SV40PA,Plate1
+A09,Parental,Parental,Parental,Plate1
+A10,Parental,Parental,Parental,Plate1
+A11,Parental,Parental,Parental,Plate1
+A12,Parental,Parental,Parental,Plate1
+B01,ARB287c,Terminators,rgPA,Plate1
+B02,ARB287c,Terminators,rgPA,Plate1
+B03,ARB287c,Terminators,rgPA,Plate1
+B04,ARB287c,Terminators,rgPA,Plate1
+B05,ARB287d,Terminators,Spacer,Plate1
+B06,ARB287d,Terminators,Spacer,Plate1
+B07,ARB287d,Terminators,Spacer,Plate1
+B08,ARB287d,Terminators,Spacer,Plate1
+B09,ARB287e,Terminators,Spacer (no TAA),Plate1
+B10,ARB287e,Terminators,Spacer (no TAA),Plate1
+B11,ARB287e,Terminators,Spacer (no TAA),Plate1
+B12,ARB287e,Terminators,Spacer (no TAA),Plate1
+C01,JPF0561,Terminators,bgPA (HS insulator),Plate1
+C02,JPF0561,Terminators,bgPA (HS insulator),Plate1
+C03,JPF0561,Terminators,bgPA (HS insulator),Plate1
+C04,JPF0561,Terminators,bgPA (HS insulator),Plate1
+C05,JPF0562,Terminators,SV40PA (HS insulator),Plate1
+C06,JPF0562,Terminators,SV40PA (HS insulator),Plate1
+C07,JPF0562,Terminators,SV40PA (HS insulator),Plate1
+C08,JPF0562,Terminators,SV40PA (HS insulator),Plate1
+C09,JPF0563,Terminators,rgPA (HS insulator),Plate1
+C10,JPF0563,Terminators,rgPA (HS insulator),Plate1
+C11,JPF0563,Terminators,rgPA (HS insulator),Plate1
+C12,JPF0563,Terminators,rgPA (HS insulator),Plate1
+D01,JPF0564,Terminators,Spacer (HS insulator),Plate1
+D02,JPF0564,Terminators,Spacer (HS insulator),Plate1
+D03,JPF0564,Terminators,Spacer (HS insulator),Plate1
+D04,JPF0564,Terminators,Spacer (HS insulator),Plate1
+D05,JPF0565,Terminators,Spacer (No TAA) (HS insulator),Plate1
+D06,JPF0565,Terminators,Spacer (No TAA) (HS insulator),Plate1
+D07,JPF0565,Terminators,Spacer (No TAA) (HS insulator),Plate1
+D08,JPF0565,Terminators,Spacer (No TAA) (HS insulator),Plate1
+D09,JPF0535a,TET SIMPLE,SP-tagBFP,Plate1
+D10,JPF0535a,TET SIMPLE,SP-tagBFP,Plate1
+D11,JPF0535a,TET SIMPLE,SP-tagBFP,Plate1
+D12,JPF0535a,TET SIMPLE,SP-tagBFP,Plate1
+E01,JPF0535b,TET SIMPLE,SP-KRAB,Plate1
+E02,JPF0535b,TET SIMPLE,SP-KRAB,Plate1
+E03,JPF0535b,TET SIMPLE,SP-KRAB,Plate1
+E04,JPF0535b,TET SIMPLE,SP-KRAB,Plate1
+E05,JPF0535c,TET SIMPLE,SP-VPR,Plate1
+E06,JPF0535c,TET SIMPLE,SP-VPR,Plate1
+E07,JPF0535c,TET SIMPLE,SP-VPR,Plate1
+E08,JPF0535c,TET SIMPLE,SP-VPR,Plate1
+E09,JPF0536a,UAS SIMPLE,SP-tagBFP,Plate1
+E10,JPF0536a,UAS SIMPLE,SP-tagBFP,Plate1
+E11,JPF0536a,UAS SIMPLE,SP-tagBFP,Plate1
+E12,JPF0536a,UAS SIMPLE,SP-tagBFP,Plate1
+F01,JPF0536b,UAS SIMPLE,SP-KRAB,Plate1
+F02,JPF0536b,UAS SIMPLE,SP-KRAB,Plate1
+F03,JPF0536b,UAS SIMPLE,SP-KRAB,Plate1
+F04,JPF0536b,UAS SIMPLE,SP-KRAB,Plate1
+F05,JPF0536c,UAS SIMPLE,SP-VPR,Plate1
+F06,JPF0536c,UAS SIMPLE,SP-VPR,Plate1
+F07,JPF0536c,UAS SIMPLE,SP-VPR,Plate1
+F08,JPF0536c,UAS SIMPLE,SP-VPR,Plate1
+F09,JPF0534a,TET COMPLEX,SP_tagBFP - SA-mRuby2,Plate1
+F10,JPF0534a,TET COMPLEX,SP_tagBFP - SA-mRuby2,Plate1
+F11,JPF0534a,TET COMPLEX,SP_tagBFP - SA-mRuby2,Plate1
+F12,JPF0534a,TET COMPLEX,SP_tagBFP - SA-mRuby2,Plate1
+G01,JPF0534b,TET COMPLEX,SP_tagBFP - SA-KRAB,Plate1
+G02,JPF0534b,TET COMPLEX,SP_tagBFP - SA-KRAB,Plate1
+G03,JPF0534b,TET COMPLEX,SP_tagBFP - SA-KRAB,Plate1
+G04,JPF0534b,TET COMPLEX,SP_tagBFP - SA-KRAB,Plate1
+G05,JPF0534c,TET COMPLEX,SP_tagBFP - SA-VPR,Plate1
+G06,JPF0534c,TET COMPLEX,SP_tagBFP - SA-VPR,Plate1
+G07,JPF0534c,TET COMPLEX,SP_tagBFP - SA-VPR,Plate1
+G08,JPF0534c,TET COMPLEX,SP_tagBFP - SA-VPR,Plate1
+G09,JPF0534d,TET COMPLEX,SP_KRAB - SA-mRuby2,Plate1
+G10,JPF0534d,TET COMPLEX,SP_KRAB - SA-mRuby2,Plate1
+G11,JPF0534d,TET COMPLEX,SP_KRAB - SA-mRuby2,Plate1
+G12,JPF0534d,TET COMPLEX,SP_KRAB - SA-mRuby2,Plate1
+H01,JPF0534e,TET COMPLEX,SP_KRAB - SA-KRAB,Plate1
+H02,JPF0534e,TET COMPLEX,SP_KRAB - SA-KRAB,Plate1
+H03,JPF0534e,TET COMPLEX,SP_KRAB - SA-KRAB,Plate1
+H04,JPF0534e,TET COMPLEX,SP_KRAB - SA-KRAB,Plate1
+H05,JPF0534f,TET COMPLEX,SP_KRAB - SA-VPR,Plate1
+H06,JPF0534f,TET COMPLEX,SP_KRAB - SA-VPR,Plate1
+H07,JPF0534f,TET COMPLEX,SP_KRAB - SA-VPR,Plate1
+H08,JPF0534f,TET COMPLEX,SP_KRAB - SA-VPR,Plate1
+H09,JPF0534g,TET COMPLEX,SP_VPR - SA-mRuby2,Plate1
+H10,JPF0534g,TET COMPLEX,SP_VPR - SA-mRuby2,Plate1
+H11,JPF0534g,TET COMPLEX,SP_VPR - SA-mRuby2,Plate1
+H12,JPF0534g,TET COMPLEX,SP_VPR - SA-mRuby2,Plate1
+A01,JPF0534h,TET COMPLEX,SP_VPR - SA-KRAB,Plate2
+A02,JPF0534h,TET COMPLEX,SP_VPR - SA-KRAB,Plate2
+A03,JPF0534h,TET COMPLEX,SP_VPR - SA-KRAB,Plate2
+A04,JPF0534h,TET COMPLEX,SP_VPR - SA-KRAB,Plate2
+A05,JPF0507,Promotors,PGK,Plate2
+A06,JPF0507,Promotors,PGK,Plate2
+A07,JPF0507,Promotors,PGK,Plate2
+A08,JPF0507,Promotors,PGK,Plate2
+A09,JPF0508,Promotors,CAG,Plate2
+A10,JPF0508,Promotors,CAG,Plate2
+A11,JPF0508,Promotors,CAG,Plate2
+A12,JPF0508,Promotors,CAG,Plate2
+B01,JPF0509,Promotors,SV40,Plate2
+B02,JPF0509,Promotors,SV40,Plate2
+B03,JPF0509,Promotors,SV40,Plate2
+B04,JPF0509,Promotors,SV40,Plate2
+B05,JPF0510,Promotors,EF1a,Plate2
+B06,JPF0510,Promotors,EF1a,Plate2
+B07,JPF0510,Promotors,EF1a,Plate2
+B08,JPF0510,Promotors,EF1a,Plate2
+B09,JPF0511,Promotors,hUBC,Plate2
+B10,JPF0511,Promotors,hUBC,Plate2
+B11,JPF0511,Promotors,hUBC,Plate2
+B12,JPF0511,Promotors,hUBC,Plate2
+C01,JPF0512,Promotors,Spacer,Plate2
+C02,JPF0512,Promotors,Spacer,Plate2
+C03,JPF0512,Promotors,Spacer,Plate2
+C04,JPF0512,Promotors,Spacer,Plate2
+C05,JPF0513,Promotors,CMV-A,Plate2
+C06,JPF0513,Promotors,CMV-A,Plate2
+C07,JPF0513,Promotors,CMV-A,Plate2
+C08,JPF0513,Promotors,CMV-A,Plate2
+C09,JPF0514,Promotors,CMV-B,Plate2
+C10,JPF0514,Promotors,CMV-B,Plate2
+C11,JPF0514,Promotors,CMV-B,Plate2
+C12,JPF0514,Promotors,CMV-B,Plate2
+D01,JPF0515,Promotors,CMV-C,Plate2
+D02,JPF0515,Promotors,CMV-C,Plate2
+D03,JPF0515,Promotors,CMV-C,Plate2
+D04,JPF0515,Promotors,CMV-C,Plate2
+D05,JPF0516,Promotors,CMV-D,Plate2
+D06,JPF0516,Promotors,CMV-D,Plate2
+D07,JPF0516,Promotors,CMV-D,Plate2
+D08,JPF0516,Promotors,CMV-D,Plate2
+D09,JPF0517,Promotors,CMV-E,Plate2
+D10,JPF0517,Promotors,CMV-E,Plate2
+D11,JPF0517,Promotors,CMV-E,Plate2
+D12,JPF0517,Promotors,CMV-E,Plate2
+E01,JPF0518,Promotors,CMV-F,Plate2
+E02,JPF0518,Promotors,CMV-F,Plate2
+E03,JPF0518,Promotors,CMV-F,Plate2
+E04,JPF0518,Promotors,CMV-F,Plate2
+E05,JPF0519,Promotors,CMV-G,Plate2
+E06,JPF0519,Promotors,CMV-G,Plate2
+E07,JPF0519,Promotors,CMV-G,Plate2
+E08,JPF0519,Promotors,CMV-G,Plate2
+E09,JPF0520,Promotors,CMV-H,Plate2
+E10,JPF0520,Promotors,CMV-H,Plate2
+E11,JPF0520,Promotors,CMV-H,Plate2
+E12,JPF0520,Promotors,CMV-H,Plate2
+F01,JPF0521,Promotors,PGK-Kozac,Plate2
+F02,JPF0521,Promotors,PGK-Kozac,Plate2
+F03,JPF0521,Promotors,PGK-Kozac,Plate2
+F04,JPF0521,Promotors,PGK-Kozac,Plate2
+F05,JPF0522,Promotors,EF1-Kozac,Plate2
+F06,JPF0522,Promotors,EF1-Kozac,Plate2
+F07,JPF0522,Promotors,EF1-Kozac,Plate2
+F08,JPF0522,Promotors,EF1-Kozac,Plate2
+F09,JPF0523,Promotors,SFFV-Kozac,Plate2
+F10,JPF0523,Promotors,SFFV-Kozac,Plate2
+F11,JPF0523,Promotors,SFFV-Kozac,Plate2
+F12,JPF0523,Promotors,SFFV-Kozac,Plate2
+G01,JPF0534i,TET COMPLEX,SP_VPR - SA-VPR,Plate2
+G02,JPF0534i,TET COMPLEX,SP_VPR - SA-VPR,Plate2
+G03,JPF0534i,TET COMPLEX,SP_VPR - SA-VPR,Plate2
+G04,JPF0534i,TET COMPLEX,SP_VPR - SA-VPR,Plate2
+G05,Parental,Parental,Parental,Plate2
+G06,Parental,Parental,Parental,Plate2
+G07,Parental,Parental,Parental,Plate2
+G08,Parental,Parental,Parental,Plate2
+G09,Parental,Parental,Parental,Plate2
+G10,Parental,Parental,Parental,Plate2
+G11,Parental,Parental,Parental,Plate2
+G12,Parental,Parental,Parental,Plate2
+H01,Parental,Parental,Parental,Plate2
+H02,Parental,Parental,Parental,Plate2
+H03,Parental,Parental,Parental,Plate2
+H04,Parental,Parental,Parental,Plate2
+H05,Parental,Parental,Parental,Plate2
+H06,Parental,Parental,Parental,Plate2
+H07,Parental,Parental,Parental,Plate2
+H08,Parental,Parental,Parental,Plate2
+H09,Parental,Parental,Parental,Plate2
+H10,Parental,Parental,Parental,Plate2
+H11,Parental,Parental,Parental,Plate2
+H12,Parental,Parental,Parental,Plate2

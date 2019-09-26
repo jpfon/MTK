@@ -1,0 +1,4 @@
+fcs files for promotor and terminator comparison
+
+run 1 and 2 are for transient eexprssion in 3t3 cells
+run3 is for stable expression in 3t3 cells
